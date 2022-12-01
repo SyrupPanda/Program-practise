@@ -1,0 +1,3 @@
+﻿  Program 8.cpp
+C:\Users\chris\OneDrive\Documents\GEC\semster 1\Source\Program 8\Program 8.cpp(6,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Program 8.vcxproj -> C:\Users\chris\OneDrive\Documents\GEC\semster 1\Source\x64\Debug\Program8.exe
