@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\ConsoleApplication1\ConsoleApplication1.cpp(14,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\ConsoleApplication1\ConsoleApplication1.cpp(14,16): message : consider using '%lld' in the format string
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\ConsoleApplication1\ConsoleApplication1.cpp(14,16): message : consider using '%Id' in the format string
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\ConsoleApplication1\ConsoleApplication1.cpp(14,16): message : consider using '%I64d' in the format string
+  ConsoleApplication1.vcxproj -> C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\x64\Debug\ConsoleApplication1.exe

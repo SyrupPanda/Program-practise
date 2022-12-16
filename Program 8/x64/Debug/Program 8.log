@@ -1,3 +1,4 @@
-﻿  Program 8.cpp
-C:\Users\chris\OneDrive\Documents\GEC\semster 1\Source\Program 8\Program 8.cpp(6,26): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Program 8.vcxproj -> C:\Users\chris\OneDrive\Documents\GEC\semster 1\Source\x64\Debug\Program8.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Program8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program 8.cpp
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\Program 8\Program 8.cpp(6,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Program 8.vcxproj -> C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\x64\Debug\Program08.exe

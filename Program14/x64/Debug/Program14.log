@@ -1,0 +1,4 @@
+﻿  Program14.cpp
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\Program14\Program14.cpp(18,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\Program14\Program14.cpp(29,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Program14.vcxproj -> C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\x64\Debug\Program14.exe

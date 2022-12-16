@@ -1,0 +1,4 @@
+﻿  Program27.cpp
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\Program27\Program27.cpp(9,11): warning C4101: 'testing': unreferenced local variable
+C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\Program27\Program27.cpp(8,10): warning C4101: 'name2': unreferenced local variable
+  Program27.vcxproj -> C:\Users\chris\OneDrive\Documents\GAME DESIGN\GEC\semster 1\Source\x64\Debug\Program27.exe
